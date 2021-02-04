@@ -62,7 +62,6 @@ Hello, thank you for looking at my Portfolio, below are some of my projects for 
   <div class="Information5">5</div>
   <div class="Information6">6</div>
 </div>
-</div>
 # Contact
 
 # Information
