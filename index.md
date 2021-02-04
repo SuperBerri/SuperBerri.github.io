@@ -5,9 +5,13 @@ Hello, thank you for looking at my Portfolio, below are some of my projects for 
 
 # Projects 
 Cube Racer
+#
 Light and Dark Project
+#
 Mobile Game Project
+#
 Zombie Game Project
+#
 Procedurally Generated Character Animation
 
 # Contact
