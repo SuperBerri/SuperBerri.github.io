@@ -50,18 +50,18 @@ Hello, thank you for looking at my Portfolio, below are some of my projects for 
 
 # Projects 
 <div class="grid-container">
-  <div class="Proj1"></div>
-  <div class="Proj2"></div>
-  <div class="Proj3"></div>
-  <div class="Proj4"></div>
-  <div class="Proj5"></div>
-  <div class="Proj6"></div>
-  <div class="Information"></div>
-  <div class="Information2"></div>
-  <div class="Information3"></div>
-  <div class="Information4"></div>
-  <div class="Information5"></div>
-  <div class="Information6"></div>
+  <div class="Proj1">1</div>
+  <div class="Proj2">2</div>
+  <div class="Proj3">3</div>
+  <div class="Proj4">4</div>
+  <div class="Proj5">5</div>
+  <div class="Proj6">6</div>
+  <div class="Information">1</div>
+  <div class="Information2">2</div>
+  <div class="Information3">3</div>
+  <div class="Information4">4</div>
+  <div class="Information5">5</div>
+  <div class="Information6">6</div>
 </div>
 # Contact
 
