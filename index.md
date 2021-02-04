@@ -50,12 +50,12 @@ Hello, thank you for looking at my Portfolio, below are some of my projects for 
 
 # Projects 
 <div class="grid-container">
-  <div class="Proj1">Img 1</div>
-  <div class="Proj2">Img 2</div>
-  <div class="Proj3">Img 3</div>
-  <div class="Proj4">Img 4</div>
-  <div class="Proj5">Img 5</div>
-  <div class="Proj6">Img 6</div>
+  <div class="Proj1"><img src = "https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" alt="text"></div>
+  <div class="Proj2"><img src = "https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" alt="text"></div>
+  <div class="Proj3"><img src = "https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" alt="text"></div>
+  <div class="Proj4"><img src = "https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" alt="text"></div>
+  <div class="Proj5"><img src = "https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" alt="text"></div>
+  <div class="Proj6"><img src = "https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png" alt="text"></div>
   <div class="Information">Info 1</div>
   <div class="Information2">Info 2</div>
   <div class="Information3">Info 3</div>
