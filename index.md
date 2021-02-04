@@ -10,10 +10,10 @@ Hello, thank you for looking at my Portfolio, below are some of my projects for 
 <p>Zombie Game Project</p>
 <p>Procedurally Generated Character Animation</p>
 
-# Contact
-Email: kieran2020@hotmail.co.uk
-
 # Information
 ### Engine Primarily Used: Unity
 ### Known Languages: C#
 ### Learning Languages: C++, Python.
+
+# Contact
+Email: kieran2020@hotmail.co.uk
