@@ -26,11 +26,11 @@ Hello, thank you for looking at my Portfolio, below are some of my projects for 
 
 # Projects 
 <div class="grid-container">
-  <div class="Proj1"></div>
-  <div class="Proj2"></div>
-  <div class="Proj3"></div>
-  <div class="Proj4"></div>
-  <div class="Proj5"></div>
+  <div class="Proj1">1</div>
+  <div class="Proj2">2</div>
+  <div class="Proj3">3</div>
+  <div class="Proj4">4</div>
+  <div class="Proj5">5</div>
 </div>
 # Contact
 
