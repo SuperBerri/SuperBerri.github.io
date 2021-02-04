@@ -14,6 +14,6 @@ Hello, thank you for looking at my Portfolio, below are some of my projects for 
 Email: kieran2020@hotmail.co.uk
 
 # Information
-<p>Engine Primarily Used: Unity</p>
-<p>Known Languages: C#</p>
-<p>Learning Languages: C++, Python.</p>
+### <p>Engine Primarily Used: Unity</p>
+### <p>Known Languages: C#</p>
+### <p>Learning Languages: C++, Python.</p>
