@@ -3,7 +3,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  gap: 0px 50px;
+  gap: 0px 10%;
   grid-template-areas:
     "Proj1 . Information Information . . . . . . . ."
     ". . . . . . . . . . . ."
