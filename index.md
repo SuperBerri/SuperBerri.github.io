@@ -1,11 +1,11 @@
-# Kieran Newton
-### Hello and welcome to my Portfolio, here I'll be covering some of my projects and showing off my journey as a Games Developer.
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kieran Newton Portfolio - SuperBerri.github.io</title>
+</head>
 
-## Information
-<b>Test</b>
-## Projects
+<body>
 
-## Contact
+</body>
 
-	
-	
+</html>
