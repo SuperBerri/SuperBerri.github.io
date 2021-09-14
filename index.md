@@ -1,7 +1,7 @@
 <style>
 </style>
 
-#- Under Construction - 
+# Under Construction - 
 
 # Kieran Newton Portfolio
 Hello, thank you for looking at my Portfolio, below are some of my projects for you to explore.
