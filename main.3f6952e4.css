@@ -1565,11 +1565,11 @@ th {
     padding: 8px;
     line-height: 1.78;
     vertical-align: top;
-    border-top: 1px solid #ddd;
+    border-top: 1px solid white;
 }
 .table > thead > tr > th {
     vertical-align: bottom;
-    border-bottom: 2px solid #ddd;
+    border-bottom: 2px solid white;
 }
 .table > caption + thead > tr:first-child > td,
 .table > caption + thead > tr:first-child > th,
@@ -1580,10 +1580,10 @@ th {
     border-top: 0;
 }
 .table > tbody + tbody {
-    border-top: 2px solid #ddd;
+    border-top: 2px solid white;
 }
 .table .table {
-    background-color: #fff;
+    background-color: white;
 }
 .table-condensed > tbody > tr > td,
 .table-condensed > tbody > tr > th,
@@ -1600,7 +1600,7 @@ th {
 .table-bordered > tfoot > tr > th,
 .table-bordered > thead > tr > td,
 .table-bordered > thead > tr > th {
-    border: 1px solid #ddd;
+    border: 1px solid white;
 }
 .table-bordered > thead > tr > td,
 .table-bordered > thead > tr > th {
@@ -2793,12 +2793,6 @@ input[type="submit"].btn-block {
 }
 .collapse.in {
     display: block;
-}
-tr.collapse.in {
-    display: table-row;
-}
-tbody.collapse.in {
-    display: table-row-group;
 }
 .collapsing {
     position: relative;
